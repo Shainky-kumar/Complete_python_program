@@ -9,6 +9,17 @@ print("Hello python I want to learn python")
 print("I am learning python with the help of pyjokes package")
 print("Hello world")
 
+
+# print the Number
+
+print(10)
+print(20)
+a = 78
+b = 90
+c = a + b
+print(c)
+
+
 import pyjokes
 
 print(pyjokes.get_joke())
