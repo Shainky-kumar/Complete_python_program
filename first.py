@@ -27,13 +27,3 @@ print(pyjokes.get_joke())
 print(pyjokes.get_joke(language="en", category="all"))
 
 
-# Muliti comments
-
-"""
-my name is shainky rajput
-I am learning python with the help of pyjokes package
-I am enjoying learning python
-
-"""
-
-
