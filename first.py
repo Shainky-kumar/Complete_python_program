@@ -6,6 +6,8 @@
 # pip install package_name to install the package pip install pyjokes to install the pyjokes package
 
 print("Hello python I want to learn python")
+print("I am learning python with the help of pyjokes package")
+print("Hello world")
 
 import pyjokes
 

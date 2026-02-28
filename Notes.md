@@ -11,4 +11,4 @@
  2. external module 
 
  <!-- REPL -->
- Read Evaluate print loop(it is used to use pytho as an calculator  "just enter the python in terminal perform some operation it give you the calculation")
+ Read Evaluate print loop(it is used to use pytho as an calculator  "just enter the python in terminal perform some operation it give you the calculation")j
