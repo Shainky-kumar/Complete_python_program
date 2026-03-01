@@ -36,4 +36,10 @@ I am enjoying learning python
 
 """
 
+my_name = "shainky rajput"
+print(my_name)  
+
+my_father_name = "pramod rajput"
+print(my_father_name)
+
 
