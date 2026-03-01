@@ -11,7 +11,4 @@
  2. external module 
 
  <!-- REPL -->
- Read Evaluate print loop(it is used to use python as an calculator  "just enter the python in terminal perform some operation it give you the calculation")
-
- <!-- multi line comment -->
- we use the ( """ """) to comment out the multiple line
+ Read Evaluate print loop(it is used to use pytho as an calculator  "just enter the python in terminal perform some operation it give you the calculation")j
