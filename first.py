@@ -25,5 +25,7 @@ import pyjokes
 print(pyjokes.get_joke())
 #  we can also use the pyjokes package to get the jokes in different languages and categories
 print(pyjokes.get_joke(language="en", category="all"))
-
+print(pyjokes.get_joke(language="en", category="neutral"))
+print(pyjokes.get_joke(language="en", category="chuck"))
+print(pyjokes.get_joke(language="en", category="all"))
 
