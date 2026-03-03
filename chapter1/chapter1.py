@@ -16,3 +16,16 @@ Then the traveler in the dark thanks you for your tiny spark. How could he see w
 go if you did not twinkle so? Twinkle, twinkle little star, how I wonder what you are.
 As your bright and tiny spark lights the traveler in the dark, though I know not what you
 are, twinkle, twinkle, little star. Twinkle, twinkle, little star, how I wonder what you are.""")
+
+print("Table of 5")
+for i in range(1, 11):
+    print(f"5 x {i} = {5 * i}")
+
+# installing the pyjokes package and using it to get a joke
+import pyjokes
+import os
+print(pyjokes.get_joke())
+# using the os module to print the content of directory
+print(os.listdir())
+
+
